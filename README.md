@@ -5,7 +5,7 @@ The following is a basic implementation of a Binary Search Tree (BST) class in J
 ## Getting Started
 
 ```code
-npm i @sarfi07/binaryTree
+npm i @sarfi07/binarytree
 ```
 
 Basic example
