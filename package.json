@@ -1,0 +1,22 @@
+{
+  "name": "@sarfi07/binarytree",
+  "version": "1.0.0",
+  "description": "Binary Search Tree implement in JavaScript",
+  "main": "binaryTree.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarfi07/BinaryTree.git"
+  },
+  "keywords": [
+    "BinarySearchTree"
+  ],
+  "author": "Sarfaroj Ansari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sarfi07/BinaryTree/issues"
+  },
+  "homepage": "https://github.com/Sarfi07/BinaryTree#readme"
+}
